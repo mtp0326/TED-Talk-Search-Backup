@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/mtp0326/TED-Talk-Search.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
